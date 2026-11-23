@@ -1,0 +1,2 @@
+# STUDENTS_NOTES-ASISTANT
+RAG project
